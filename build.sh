@@ -44,7 +44,7 @@ sudo certbot renew --dry-run
 wait 
 
 # Install GIT
-git sudo apt install git -y
+git sudo apt install git -y
 git --version
 git config --global user.name “username”
 git config --global user.email “email@domain.com”
